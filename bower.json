@@ -1,8 +1,8 @@
 {
   "name": "splitargs",
-  "main": "splitargs.js",
+  "main": "src/splitargs.js",
   "version": "0.1.0",
-  "homepage": "https://github.com/deviantony/splitargs",
+  "homepage": "https://github.com/deviantony/ng-splitargs",
   "authors": [
     "Anthony Lapenna <lapenna.anthony@gmail.com>"
   ],
