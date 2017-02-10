@@ -1,0 +1,23 @@
+{
+  "name": "splitargs",
+  "main": "splitargs.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/deviantony/splitargs",
+  "authors": [
+    "Anthony Lapenna <lapenna.anthony@gmail.com>"
+  ],
+  "description": "Splits strings into tokens by given separator except treating quoted part as a single token.",
+  "keywords": [
+    "args",
+    "shell",
+    "parse"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
